@@ -1,0 +1,22 @@
+# dependencies
+/api/node_modules
+/frontend/social/node_modules
+
+
+/frontend/social/npm-debug.log*
+/frontend/social/yarn-debug.log*
+/frontend/social/yarn-error.log*
+/frontend/social/yarn.lock*
+/frontend/social/package-lock*
+
+/api/npm-debug.log*
+/api/yarn-debug.log*
+/api/yarn-error.log*
+/api/yarn.lock*
+/api/package-lock*
+
+/api/test.js
+
+Descricao_Teste.txt
+
+URL_Para_Testar_Local_Plataforma_Studio.txt
